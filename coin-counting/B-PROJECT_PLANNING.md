@@ -16,7 +16,7 @@ The Coin Counting Project's Work Breakdown Structure (WBS) is designed to segmen
 ### Scope
 A work breakdown structure (WBS) is created to map all the necessary tasks and develop the process which the WBS will be maintained and approved.
 
-We must determine the project's scope for this coin counting project. For instance, only coins from one country and coins from the current generation will be recognised by the project. For instance, each coin needs to be placed on the scanning surface independently.
+In this coin counting application, the scope of project will be identified. For instance, only coins from one country and coins from the current generation will be recognised by the project. For instance, each coin needs to be placed on the scanning surface independently. For example, the project will not accept bank notes as it will detect coins only. Next, user must letak susun coins bukannya tindan2 kan mereka as the image processing need to captured it to do process. Besides, the other country such as Korea not be able to use this application because its coin size is applying for coins in Malaysia only. In addition, the fake coins will be identified and will not be counting. (nnti ubah, ni saya tmbah dulu
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
