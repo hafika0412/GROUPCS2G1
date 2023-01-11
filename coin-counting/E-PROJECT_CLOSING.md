@@ -26,8 +26,8 @@ After the system has been completed, we tested the accuracy of the system. The s
 
 The project member sticks to the Gantt chart scheduled so, the actual progress fits the original schedule.
 
-<img src="assets/planning/WBS1.png" width="100%">
-<img src="assets/planning/WBS2.png" width="100%">
+![image](https://user-images.githubusercontent.com/121591140/211916067-66a0c094-3f5b-4c0f-8bcd-e452dc50e355.png)
+
 
 **4.0 ORIGINAL AND ACTUAL BUDGET**
 
