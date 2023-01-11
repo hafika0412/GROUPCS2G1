@@ -11,7 +11,7 @@ Project management WBS is shown in the Gantt Chart below:
 
 The Coin Counting Project's Work Breakdown Structure (WBS) is designed to segment the technical portion of the project into many modules, including hardware and environment, image processing, and image analysis.
 
-!!image!!
+![drawable-Page-2](https://user-images.githubusercontent.com/121591169/211925311-748d2b03-4347-44ec-ad2c-2ae1f4258b45.jpg)
 
 ### Scope
 A work breakdown structure (WBS) is created to map all the necessary tasks and develop the process which the WBS will be maintained and approved.
