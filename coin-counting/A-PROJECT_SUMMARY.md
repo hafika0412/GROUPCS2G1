@@ -13,7 +13,7 @@ In our coin counting system, a camera will be positioned inside the vending mach
 
 ### Team Members: 
 + Name B032120043 AQILAH FARHAH BINTI FAREZ EZAM
-+ Name B03
++ Name B032120014 NURUL HAFIKA HAFINA BINTI MOHAMAD FADZLI 
 + Name B032020044 KOO CHUN CHENG
 
 
