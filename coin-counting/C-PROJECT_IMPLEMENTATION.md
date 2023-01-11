@@ -10,7 +10,8 @@ For the software, our group used iamge processing library in MATLAB to carry out
 
 #### Outcomes of the system
 2 main steps will be applied in our system, which is labelling the coin and calculation. Given an input image, the first step is to label the coins, detect them as different objects and then calculation based on the value set on each range of size. 
-### !!image here!!
+![sample flow](https://user-images.githubusercontent.com/121591169/211925979-15fa5a68-cd24-4ef7-aef9-fbe840ac09dc.png)
+
 
 ### Tasks and Estimated Costs
 
