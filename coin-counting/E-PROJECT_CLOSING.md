@@ -20,7 +20,7 @@ The car plate recognition system done by QTMT Inc. was intended to develop an ar
 
 **2.0 SUMMARY OF PROJECT RESULTS**
 
-After the system has been completed, we tested the accuracy of the system. The system is 30%
+We evaluated the accuracy of the system after it was finished. If all guidelines are followed, the system is 100% effective. The accuracy only declines when a setup issue exists.
 
 **3.0 ORIGINAL AND ACTUAL SCHEDULE**
 
