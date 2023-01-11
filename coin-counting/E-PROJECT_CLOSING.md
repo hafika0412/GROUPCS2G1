@@ -8,7 +8,8 @@
 ![image](https://user-images.githubusercontent.com/121591140/211896717-38a7c044-2882-4121-8c04-3c550f84b5af.png)
 
 #### 2. Lessons Learned Document
-![image](https://user-images.githubusercontent.com/121591140/211896772-ca32284d-3c6a-4eea-99c2-65c234b2d154.png)
+![image](https://user-images.githubusercontent.com/121591140/211913822-28a97234-3700-4153-9072-fbbea8509b42.png)
+
 
 #### 3. Final Project Report
 **COIN COUNTING APPLICATION**
