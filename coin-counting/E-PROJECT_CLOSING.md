@@ -67,5 +67,5 @@ iv)	Report information to senior management on monthly basis.
 ![image](https://user-images.githubusercontent.com/121591140/211897605-b246c769-64bd-448a-811f-a81beabb34cf.png)
 
 <br><br><br>
-##### Next: [Project Presentation](F-PROJECT_PRESENTATION.md)
+##### Next: [Project Organization](Z - COMPANY ORGANIZATION.md)
 
