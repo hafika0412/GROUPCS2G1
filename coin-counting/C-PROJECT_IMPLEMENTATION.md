@@ -27,6 +27,6 @@ For the software, our group used iamge processing library in MATLAB to carry out
 
 ### Milestone Chart
 #### Microsoft Project:
-![- Milestone Chart](https://user-images.githubusercontent.com/121591169/211925674-088fecf6-d988-4f71-8b97-a6451819afd3.jpg)
+![- Milestone Chart](https://user-images.githubusercontent.com/121591169/211927360-f70f2306-8893-4c8d-884b-2047024f0324.jpg)
 
 ##### Next: [Project Execution](D-PROJECT_EXECUTION.md)
