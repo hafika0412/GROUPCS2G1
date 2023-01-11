@@ -9,7 +9,7 @@ To develop an artificial intelligence application which can be collaborate with 
 We will replace all hardware by applying artificial intelligence to make it absorb, interpret, and make complex decisions than humans’ ability.
 
 ## OUR TEAMS
-CHIEF EXECUTIVE OFFICIAL (CEO)
+CHIEF EXECUTIVE OFFICER (CEO)
 
 ![image](https://user-images.githubusercontent.com/121591140/211903148-01b37b7f-a6c4-4643-beda-9ab748aaf961.png)
 
@@ -26,7 +26,7 @@ AQILAH FARHAH BINTI FAREZ EZAM
   
   <br>
 
-CHIEF OPERATING OFFICIAL (COO)
+CHIEF OPERATING OFFICER (COO)
   
 ![image](https://user-images.githubusercontent.com/121591140/211903162-a187db1a-65ea-4bee-a815-2d01f6e46c66.png)
 
@@ -44,7 +44,7 @@ Responsibility:<p>
 
 
 
-CHIEF TECHNOLOGY OFFICIAL (CTO)
+CHIEF TECHNOLOGY OFFICERL (CTO)
   
 ![image](https://user-images.githubusercontent.com/121591140/211903183-c2b56547-9e7b-44d4-97b5-42ce3cdae2d4.png)
 
