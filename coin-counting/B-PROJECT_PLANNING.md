@@ -20,7 +20,11 @@ In this coin counting application, the scope of project will be identified. For 
 
 ### Risk Identification Chart (Quality, Cost, Time)
 
-!!Table here!!
+| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
+|-----|----|-------|-----|
+|Quality <br> (Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program)|1. Inadequate Quality Assurance Program: The system can't differentiate fake and real coins <br> (Ex. circle things and coins) <br><br> 2. Inadequate Quality Assurance Program: The quality of the AI model is taking too much time to process the images.  |How: The output result will calculate total coins incorrectly <br> <br> When: The quality problem of will be determined during the unit testing phase|Assign one member to keep on testing the rules used to increased the accuracy until a satisfied result is determined.|
+|Cost <br> (Estimating errors; inadequate productivity, cost, change, or contingency)|1. Contigency: If one of the developers forgets to shut down the EC2 instance while it's not in use, the server's cost will increase.|How: The monthly bills will show unexpected extra charged to the bills.<br><br>When: The problem most probably will be encountered during the project execution and project implementation.|Notify the owner through email or discord whenever budget exceed threshold in the AWS cloud computing service.
+|Time <br> (Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products) | 1. Project not able to reach the milestone set  as described in the Gantt Chart. <br><br> 2. Erros in estimating resource availability: There are not enough server to be used to test the coin images  |How: The members are stuck with a certain problem and drag all the other team members <br><br> When: The problem will be encountered during the project excution and monitoring phase.| To prevent being caught in the problem loop, ask the other team members for assistance and swap their work or job to another one..|
 
 ### Responsibility Assignment Matrices (RAM)
 
