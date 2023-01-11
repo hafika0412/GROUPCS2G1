@@ -44,7 +44,7 @@ Responsibility:<p>
 
 
 
-CHIEF TECHNOLOGY OFFICERL (CTO)
+CHIEF TECHNOLOGY OFFICER (CTO)
   
 ![image](https://user-images.githubusercontent.com/121591140/211903183-c2b56547-9e7b-44d4-97b5-42ce3cdae2d4.png)
 
