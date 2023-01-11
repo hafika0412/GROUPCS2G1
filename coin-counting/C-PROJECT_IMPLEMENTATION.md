@@ -16,17 +16,17 @@ For the software, our group used iamge processing library in MATLAB to carry out
 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
-|   -        |$|  -     |   
-|   -   |$| - | 
-|   -         |$|  - |              |
+|   -|$|  -     |   
+|   - |$| - | 
+|   - |$|  - |              |
 |   -|$| -     |         |
-|   -              |$|  -     |      |
-|   -                      |$|  -     |      |
+|   -             |$|  -     |      |
+|   -     |$|  -     |      |
 
 
 ### Milestone Chart
 #### Microsoft Project:
-<img src="assets/implementation/- WBS.jpg" width="100%">
+<img src="assets/implementation/- Milestone Chart.jpg" width="100%">
 
 #### Power Point:
 
