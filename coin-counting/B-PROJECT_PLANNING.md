@@ -7,7 +7,7 @@ The Gantt chart used to illustrate and document the project management life cycl
 
 Project management WBS is shown in the Gantt Chart below:
 
-!!image!!
+![image](https://user-images.githubusercontent.com/121591140/211916067-66a0c094-3f5b-4c0f-8bcd-e452dc50e355.png)
 
 The Coin Counting Project's Work Breakdown Structure (WBS) is designed to segment the technical portion of the project into many modules, including hardware and environment, image processing, and image analysis.
 
