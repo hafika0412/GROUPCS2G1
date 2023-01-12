@@ -21,7 +21,7 @@ For the software, our group used iamge processing library in MATLAB to carry out
 | Software Maintenance |RM15,000| Fix Bugs and Errors | 
 | Equipment and Equipment Use |RM900|   Setup the equipment | |
 | Project Sign|RM600| Installation of project sign     |         |
-| Cultural resources            |RM80,000|  Evaluate undertaking and investigate |      |
+| Testing            |RM80,000|  Test the application |      |
 |   Total     |RM116,500|  Estimation only    |      |
 
 
